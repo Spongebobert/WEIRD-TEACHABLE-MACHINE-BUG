@@ -1,0 +1,14 @@
+.heading {
+    width : 100%;
+    font-size: 30px;
+}
+body {
+    background : red;
+    color :navajowhite;
+}
+
+#camera {
+    border : 2px dashed orange;
+    width : 350px;
+    height : 300px;
+}
